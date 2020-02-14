@@ -1,0 +1,1 @@
+select * from {{ ref('alb_country_codes') }}
